@@ -1,0 +1,6 @@
+
+steps:
+1. create page like pune which will show the details of pune
+2. check  if user is log in before authenticate user to pune page 
+3 if user is not log in then redirect user to login page
+4. if user is log in then show the user name
